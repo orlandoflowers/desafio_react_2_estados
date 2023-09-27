@@ -1,8 +1,11 @@
-# React + Vite
+# Desafío en grupo de Estados con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrantes
+Orlando Flores
+Mauricio Ortega
 
-Currently, two official plugins are available:
+## Supuestos Aplicados
+Se utilizo bootstrap - react en la generación del formulario, por lo cual el input utilizado para el email trae la validación de este en componente form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
